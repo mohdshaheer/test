@@ -8,4 +8,4 @@ $ git push -f origin master
  
 
 
-updated others for pull
+updated myself for push
